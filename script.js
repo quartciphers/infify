@@ -6,7 +6,7 @@ let photosArray = [];
 let ready = false;
 let imagesLoaded = 0;
 let totalImages = 0;
-
+let isInitialLoad = true // 
 
 const Initialcount =5;
 const apikey ='fUbgFYSAwZ3lhSC_XtDlZ3Le8TmTGGUvxjkVwdav-yE';
